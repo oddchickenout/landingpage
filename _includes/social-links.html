@@ -1,13 +1,13 @@
 <div class="social_links">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+      <ul><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></ul>
     {% endif %}
 
     {% if site.body.links %}
       {% for link in site.body.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <ul><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></ul>
         {% endif %}
       {% endfor %}
     {% endif %}
