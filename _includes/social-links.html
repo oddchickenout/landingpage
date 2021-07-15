@@ -4,7 +4,7 @@
     {% if site.body.links %}
       {% for link in site.body.links %}
         {% if link.label and link.url %}
-          <ul><h3><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></h3></ul>
+          <ul><h2><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></h2></ul>
           <br>
         {% endif %}
       {% endfor %}
