@@ -2,7 +2,7 @@
 permalink: /
 hidden: true
 author_profile: false
-title: "home"
+title: ""
 layout: single
 
 ---
