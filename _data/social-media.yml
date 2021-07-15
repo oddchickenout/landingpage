@@ -14,7 +14,7 @@ Instagram:
  id: 'oddchickenout'
  href: 'https://instagram.com/'
  title: 'Instagram'
- fa-icon: 'fa-instagram'
+ fa-icon: 'fab fa-fw fa-instagram'
 
 tiktok2:
  id: 'oddchickenout'
