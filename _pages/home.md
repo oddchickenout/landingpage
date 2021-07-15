@@ -15,9 +15,6 @@ Twitter @oddchickenout
 
 
 
-hr
-
-
 {% if site.data.social-media %}
 <div id="social-media">
     {% assign sm = site.data.social-media %}
