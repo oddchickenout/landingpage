@@ -16,19 +16,19 @@ Instagram:
  title: 'Instagram'
  fa-icon: 'fa-instagram'
 
-tiktok:
+tiktok2:
  id: 'oddchickenout'
  href: 'https://tiktok.com/'
  title: 'TikTok-2'
  fa-icon: 'fa-ticktok-square'
  
-twitter:
+twitter2:
  id: 'oddchickenout'
  href: 'https://twitter.com/'
  title: 'Twitter-2'
  fa-icon: 'fa-twitter-square'
  
-Instagram:
+Instagram2:
  id: 'oddchickenout'
  href: 'https://instagram.com/'
  title: 'Instagram-2'
