@@ -13,6 +13,6 @@ Instagram @oddchickenout
 
 Twitter @oddchickenout
 
-{{ site.data.author.name }}
+{{ site.author.name }}
 
 
