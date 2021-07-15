@@ -7,4 +7,12 @@ layout: single
 
 ---
 
-Home page
+TikTok @oddchickout
+
+Instagram @oddchickenout
+
+Twitter @oddchickenout
+
+{{ site.data.author.name }}
+
+
