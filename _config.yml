@@ -39,6 +39,12 @@ analytics:
     tracking_id: "UA-202310278-1"
     anonymize_ip: false # default
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-MNBPV6KNX5"
+    anonymize_ip: false # default
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
