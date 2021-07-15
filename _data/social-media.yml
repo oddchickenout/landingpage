@@ -1,0 +1,35 @@
+tiktok:
+ id: 'oddchickenout'
+ href: 'https://tiktok.com/'
+ title: 'TikTok'
+ fa-icon: 'fa-ticktok'
+ 
+twitter:
+ id: 'oddchickenout'
+ href: 'https://twitter.com/'
+ title: 'Twitter'
+ fa-icon: 'fa-twitter'
+ 
+Instagram:
+ id: 'oddchickenout'
+ href: 'https://instagram.com/'
+ title: 'Instagram'
+ fa-icon: 'fa-instagram'
+
+tiktok:
+ id: 'oddchickenout'
+ href: 'https://tiktok.com/'
+ title: 'TikTok-2'
+ fa-icon: 'fa-ticktok-square'
+ 
+twitter:
+ id: 'oddchickenout'
+ href: 'https://twitter.com/'
+ title: 'Twitter-2'
+ fa-icon: 'fa-twitter-square'
+ 
+Instagram:
+ id: 'oddchickenout'
+ href: 'https://instagram.com/'
+ title: 'Instagram-2'
+ fa-icon: 'fa-instagram-square'
