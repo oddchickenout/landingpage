@@ -36,7 +36,7 @@ include:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-J7WFNW2DRK"
+    tracking_id: "UA-202310278-1"
     anonymize_ip: false # default
 
 # Exclude from processing.
