@@ -8,7 +8,7 @@ layout: single
 ---
 
 
-{% include social-links.html %}
-
-
 ## follow now for updates later
+
+
+{% include social-links.html %}
