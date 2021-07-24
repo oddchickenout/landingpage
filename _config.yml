@@ -86,27 +86,33 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/oddchickenout"
+    - label: "oddchickenout"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/oddchickenout"
     - label: "TikTok"
       icon: "fab fa-fw fa-tiktok"
       url: "https://tiktok.com/oddchickenout"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/oddchickenout"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/oddchickenout"
       
 body:
   links:
     - label: "@oddchickenout"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/oddchickenout"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/oddchickenout"
     - label: "@oddchickenout"
       icon: "fab fa-fw fa-tiktok"
       url: "https://tiktok.com/oddchickenout"
     - label: "@oddchickenout"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/oddchickenout"
+    - label: "oddchickenout"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/oddchickenout"
 
 defaults:
   # _posts
