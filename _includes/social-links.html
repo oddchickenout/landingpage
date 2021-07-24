@@ -1,10 +1,6 @@
 <div class="social_links">
   <ul class="social-icons">
     
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-
     {% if site.body.links %}
       {% for link in site.body.links %}
         {% if link.label and link.url %}
