@@ -110,7 +110,7 @@ body:
     - label: "@oddchickenout"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/oddchickenout"
-    - label: "oddchickenout"
+    - label: "@oddchickenout"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/oddchickenout"
 
