@@ -1,17 +1,10 @@
-<head>
-    <style type="text/css">
-        a {text-decoration: none; }
-    </style>
-</head>
-
-
 <div class="social icons">
   <ul class="social-icons">
     
     {% if site.body.links %}
       {% for link in site.body.links %}
         {% if link.label and link.url %}
-          <ul><h2><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></h2></ul>
+          <ul><h2><a href="{{ link.url }}" style="text-decoration: none" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></h2></ul>
           <br>
         {% endif %}
       {% endfor %}
